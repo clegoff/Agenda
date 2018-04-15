@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <Mail>oceane.delafond@gmail.com</Mail>
+    <Password>testtest</Password>
+    <Name>Delafond</Name>
+    <FirstName>oceane</FirstName>
+    <Phone_pro>5461251561</Phone_pro>
+    <Service>serv</Service>
+    <SecretQuestion>Quel est le nom de jeune fille de votre mère ?</SecretQuestion>
+    <SecretAnswer>test</SecretAnswer>
+    <PictureProfil />
+    <TheCalendar>
+      <TheRendezvous />
+    </TheCalendar>
+    <TheContacts />
+  </Account>
+  <Account>
+    <Mail>oceane.delafond@hotmail.fr</Mail>
+    <Password>test</Password>
+    <Name>Delafond</Name>
+    <FirstName>Océane</FirstName>
+    <Phone_pro>0215487895</Phone_pro>
+    <Service>ServicesTest</Service>
+    <SecretQuestion>Quel est votre couleur favorite ?</SecretQuestion>
+    <SecretAnswer>Rouge</SecretAnswer>
+    <PictureProfil />
+    <TheCalendar>
+      <TheRendezvous>
+        <Rendezvous>
+          <Title>test</Title>
+          <StartDate>2018-04-13T00:00:00</StartDate>
+          <EndDate>2018-04-15T00:00:00</EndDate>
+          <Comment>test rdv</Comment>
+          <IsVacation>false</IsVacation>
+        </Rendezvous>
+        <Rendezvous>
+          <Title>test</Title>
+          <StartDate>2018-04-12T00:00:00</StartDate>
+          <EndDate>2018-04-15T00:00:00</EndDate>
+          <Comment />
+          <IsVacation>false</IsVacation>
+        </Rendezvous>
+        <Rendezvous>
+          <Title>Lets go</Title>
+          <StartDate>2018-04-04T00:00:00</StartDate>
+          <EndDate>2018-04-05T00:00:00</EndDate>
+          <Comment />
+          <IsVacation>true</IsVacation>
+        </Rendezvous>
+      </TheRendezvous>
+    </TheCalendar>
+    <TheContacts />
+  </Account>
+  <Account>
+    <Mail>c.legoffpro@gmail.com</Mail>
+    <Password>123</Password>
+    <Name>Legoff</Name>
+    <FirstName>Cédric</FirstName>
+    <Phone_pro>012346789</Phone_pro>
+    <Service />
+    <SecretQuestion>Quel est le nom de jeune fille de votre mère ?</SecretQuestion>
+    <SecretAnswer>Broche
+Broche</SecretAnswer>
+    <PictureProfil />
+    <TheCalendar>
+      <TheRendezvous />
+    </TheCalendar>
+    <TheContacts />
+  </Account>
+</ArrayOfAccount>
